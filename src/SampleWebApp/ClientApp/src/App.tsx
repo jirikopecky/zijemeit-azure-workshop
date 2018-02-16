@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './App.css';
 
-const logo = require('./logo.svg');
+const logo = require('./zijemeit_logo_big.png');
 
 class App extends React.Component {
   render() {
@@ -9,10 +9,10 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Vítejte na konferenci Žijeme IT 2017</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.tsx</code> and save to reload.
+          Tato je ukázková aplikace pro workshop "Deployment automation in Azure"
         </p>
       </div>
     );
