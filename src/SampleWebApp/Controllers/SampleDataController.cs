@@ -11,7 +11,7 @@ namespace ReactSpa.Controllers
         [HttpGet]
         public IActionResult GetHelloWorld()
         {
-            return Json(new { message = "Hello, world!" });
+            return Json(new { message = "Hello, World!" });
         }
     }
 }
