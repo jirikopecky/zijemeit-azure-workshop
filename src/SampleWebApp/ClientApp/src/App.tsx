@@ -9,7 +9,7 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Vítejte na konferenci Žijeme IT 2017x</h1>
+          <h1 className="App-title">Vítejte na konferenci Žijeme IT 2018</h1>
         </header>
         <p className="App-intro">
           Tato je ukázková aplikace pro workshop "Deployment automation in Azure"
